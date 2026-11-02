@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-orcamento",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^9.0.1",
+    "@mui/material": "^9.0.1",
+    "luxon": "^3.7.2",
+    "mongoose": "^9.6.3",
+    "next": "16.2.7",
+    "nodemailer": "^8.0.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "25.9.2",
+    "@types/react": "19.2.17",
+    "babel-plugin-react-compiler": "1.0.0",
+    "tailwindcss": "^4",
+    "typescript": "6.0.3"
+  }
+}

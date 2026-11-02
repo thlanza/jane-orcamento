@@ -1,0 +1,1 @@
+Aplicação para enviar emails, sobre controle doméstico de orçamento.
